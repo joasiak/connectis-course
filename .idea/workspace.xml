@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="83c5e3cf-13c2-4732-bb2a-dfcaf28a1d06" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/pl/cschool/week1/PascalTriangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/pl/cschool/week1/PascalTriangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/pl/cschool/week1/PascalTriangleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/pl/cschool/week1/PascalTriangleTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/cschool/week1/runner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pl/cschool/week1/HistogramTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pl/cschool/week1/HistogramTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pl/cschool/week1/PascalTriangleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pl/cschool/week1/PascalTriangleTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="83c5e3cf-13c2-4732-bb2a-dfcaf28a1d06" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -113,8 +105,8 @@
       <file leaf-file-name="Histogram.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pl/cschool/week1/Histogram.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="840">
-              <caret line="42" column="30" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="30" />
+            <state relative-caret-position="120">
+              <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -125,8 +117,8 @@
       <file leaf-file-name="TaskOth.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/pl/cschool/week1/TaskOth.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+            <state relative-caret-position="340">
+              <caret line="17" column="62" lean-forward="true" selection-start-line="17" selection-start-column="62" selection-end-line="17" selection-end-column="62" />
               <folding>
                 <element signature="e#509#510#0" expanded="true" />
                 <element signature="e#562#563#0" expanded="true" />
@@ -815,7 +807,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527500196318</updated>
-      <workItem from="1527500199641" duration="43391000" />
+      <workItem from="1527500199641" duration="44230000" />
     </task>
     <servers />
   </component>
@@ -852,7 +844,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43391000" />
+    <option name="totallyTimeSpent" value="44230000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
@@ -866,9 +858,9 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" weight="0.32942432" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.41510904" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.41510904" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32866043" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32866043" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10572337" />
@@ -951,16 +943,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/cschool/week1/Histogram.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="42" column="30" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/cschool/week1/PascalTriangle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -1025,10 +1007,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/cschool/week1/Histogram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/cschool/week1/TaskOth.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        <state relative-caret-position="340">
+          <caret line="17" column="62" lean-forward="true" selection-start-line="17" selection-start-column="62" selection-end-line="17" selection-end-column="62" />
           <folding>
             <element signature="e#509#510#0" expanded="true" />
             <element signature="e#562#563#0" expanded="true" />
