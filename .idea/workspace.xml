@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="83c5e3cf-13c2-4732-bb2a-dfcaf28a1d06" name="Default" comment="" />
+    <list default="true" id="83c5e3cf-13c2-4732-bb2a-dfcaf28a1d06" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/pl/cschool/week1/PascalTriangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/pl/cschool/week1/PascalTriangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/pl/cschool/week1/PascalTriangleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/pl/cschool/week1/PascalTriangleTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/cschool/week1/runner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pl/cschool/week1/HistogramTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pl/cschool/week1/HistogramTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pl/cschool/week1/PascalTriangleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pl/cschool/week1/PascalTriangleTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -63,11 +71,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="PascalTriangle.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PascalTriangle.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pl/cschool/week1/PascalTriangle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+            <state relative-caret-position="340">
+              <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -75,20 +83,8 @@
       <file leaf-file-name="PascalTriangleTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/pl/cschool/week1/PascalTriangleTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="runner.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/cschool/week1/runner.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="20" column="50" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="50" />
+            <state relative-caret-position="300">
+              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -126,11 +122,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TaskOth.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="TaskOth.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/pl/cschool/week1/TaskOth.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="103" column="4" selection-start-line="103" selection-start-column="4" selection-end-line="108" selection-end-column="5" />
+            <state relative-caret-position="140">
+              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
               <folding>
                 <element signature="e#509#510#0" expanded="true" />
                 <element signature="e#562#563#0" expanded="true" />
@@ -146,8 +142,8 @@
       <file leaf-file-name="HistogramTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/pl/cschool/week1/HistogramTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            <state relative-caret-position="500">
+              <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -193,6 +189,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -490,13 +489,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/pl/cschool/week1/HistogramTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/cschool/week1/Histogram.java" />
-        <option value="$PROJECT_DIR$/src/test/java/pl/cschool/week1/PascalTriangleTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/cschool/week1/TaskOth.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/cschool/week1/TasksString.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/cschool/week1/runner.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/cschool/week1/PascalTriangle.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pl/cschool/week1/PascalTriangleTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pl/cschool/week1/HistogramTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/cschool/week1/TaskOth.java" />
       </list>
     </option>
   </component>
@@ -518,6 +517,7 @@
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -627,7 +627,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.runner">
+  <component name="RunManager" selected="JUnit.HistogramTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -797,11 +797,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.HistogramTest" />
+        <item itemvalue="JUnit.PascalTriangleTest" />
         <item itemvalue="Application.runner" />
         <item itemvalue="JUnit.PascalTriangleTest.asdTest1" />
         <item itemvalue="JUnit.PascalTriangleTest.Test1" />
-        <item itemvalue="JUnit.HistogramTest" />
-        <item itemvalue="JUnit.PascalTriangleTest" />
       </list>
     </recent_temporary>
   </component>
@@ -815,17 +815,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527500196318</updated>
-      <workItem from="1527500199641" duration="42387000" />
+      <workItem from="1527500199641" duration="43391000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PascalTriangleTest_generateTrTest - 2018.05.29 at 03h 20m 50s.xml">
-      <configuration name="PascalTriangleTest.generateTrTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PascalTriangleTest_Test1 - 2018.05.29 at 03h 21m 17s.xml">
-      <configuration name="PascalTriangleTest.Test1" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="PascalTriangleTest_Test1 - 2018.05.30 at 04h 58m 13s.xml">
       <configuration name="PascalTriangleTest.Test1" configurationId="JUnit" />
     </history-entry>
@@ -850,13 +844,18 @@
     <history-entry file="PascalTriangleTest_generateTr - 2018.05.30 at 06h 19m 54s.xml">
       <configuration name="PascalTriangleTest.generateTr" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="PascalTriangleTest - 2018.05.31 at 19h 19m 58s.xml">
+      <configuration name="PascalTriangleTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HistogramTest - 2018.05.31 at 19h 21m 22s.xml">
+      <configuration name="HistogramTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42387000" />
+    <option name="totallyTimeSpent" value="43391000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -867,12 +866,12 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" weight="0.32942432" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.41510904" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32900432" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.41510904" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32866043" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10572337" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10572337" />
       <window_info anchor="bottom" id="Build" weight="0.32900432" />
       <window_info anchor="right" id="Database" weight="0.3298887" />
       <window_info anchor="right" id="Gradle" visible="true" weight="0.13751987" />
@@ -904,12 +903,6 @@
           <line>18</line>
           <properties />
           <option name="timeStamp" value="21" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/pl/cschool/week1/runner.java</url>
-          <line>9</line>
-          <properties />
-          <option name="timeStamp" value="29" />
         </line-breakpoint>
       </breakpoints>
       <option name="time" value="30" />
@@ -951,26 +944,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pl/cschool/week1/HistogramTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pl/cschool/week1/PascalTriangleTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
@@ -978,28 +951,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/cschool/week1/TaskOth.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/cschool/week1/Histogram.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="103" column="4" selection-start-line="103" selection-start-column="4" selection-end-line="108" selection-end-column="5" />
+        <state relative-caret-position="840">
+          <caret line="42" column="30" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="30" />
           <folding>
-            <element signature="e#509#510#0" expanded="true" />
-            <element signature="e#562#563#0" expanded="true" />
-            <element signature="e#613#614#0" expanded="true" />
-            <element signature="e#637#638#0" expanded="true" />
-            <element signature="e#732#733#0" expanded="true" />
-            <element signature="e#762#763#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/cschool/week1/runner.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/cschool/week1/PascalTriangle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="20" column="50" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="340">
+          <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -1030,20 +995,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/cschool/week1/Histogram.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/cschool/week1/HistogramTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="42" column="30" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="30" />
+        <state relative-caret-position="500">
+          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/cschool/week1/PascalTriangle.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/cschool/week1/runner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        <state relative-caret-position="280">
+          <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="18" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/cschool/week1/PascalTriangleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/cschool/week1/TaskOth.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+          <folding>
+            <element signature="e#509#510#0" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
+            <element signature="e#613#614#0" expanded="true" />
+            <element signature="e#637#638#0" expanded="true" />
+            <element signature="e#732#733#0" expanded="true" />
+            <element signature="e#762#763#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
