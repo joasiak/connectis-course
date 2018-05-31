@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cschool-projects.iml" filepath="$PROJECT_DIR$/.idea/modules/cschool-projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cschool-projects_main.iml" filepath="$PROJECT_DIR$/.idea/modules/cschool-projects_main.iml" group="cschool-projects" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cschool-projects_test.iml" filepath="$PROJECT_DIR$/.idea/modules/cschool-projects_test.iml" group="cschool-projects" />
+    </modules>
+  </component>
+</project>
