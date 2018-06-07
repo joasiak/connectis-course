@@ -12,12 +12,12 @@ public class Circle {
     public Circle() {
     }
 
-    public double circlePerimeter(double r) {
-        return 2*Math.PI*r;
+    public double circlePerimeter() {
+        return 2*Math.PI*this.radius;
     }
 
-    public double circleArea(double r) {
-        return Math.PI*Math.pow(r,2);
+    public double circleArea() {
+        return Math.PI*Math.pow(this.radius,2);
     }
 
     public double getRadius() {

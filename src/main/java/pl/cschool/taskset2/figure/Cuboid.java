@@ -16,12 +16,12 @@ public class Cuboid {
         this.cubHeight = cubHeight;
     }
 
-    public double cuboidArea(double a, double b, double H) {
-        return 2*a*b + 2*b*H + 2*a*H;
+    public double cuboidArea() {
+        return 2*this.cubWidth*this.cubLength + 2*this.cubLength*this.cubHeight + 2*this.cubWidth*this.cubHeight;
     }
 
-    public double cuboidVolume(double a, double b, double H) {
-        return a * b * H;
+    public double cuboidVolume() {
+        return this.cubWidth *this.cubLength * this.cubHeight;
     }
 
     public String getName() {

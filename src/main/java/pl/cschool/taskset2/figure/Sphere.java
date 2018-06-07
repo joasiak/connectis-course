@@ -12,12 +12,12 @@ public class Sphere {
         this.radius = radius;
     }
 
-    public double sphereArea(double r) {
-        return 4*Math.PI*Math.pow(r,2);
+    public double sphereArea() {
+        return 4*Math.PI*Math.pow(this.radius,2);
     }
 
-    public double sphereVolume(double r) {
-        return (4/3)*Math.PI*Math.pow(r,3);
+    public double sphereVolume() {
+        return 1.33*Math.PI*Math.pow(this.radius,3);
     }
 
     public String getName() {

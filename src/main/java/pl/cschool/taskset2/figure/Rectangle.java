@@ -13,12 +13,12 @@ public class Rectangle {
     public Rectangle() {
     }
 
-    public double rectPerimeter(double a, double b) {
-        return 2*a+2*b;
+    public double rectPerimeter() {
+        return 2*this.recWidth+2*this.recLength;
     }
 
-    public double rectArea(double a, double b) {
-        return a*b;
+    public double rectArea() {
+        return this.recWidth*this.recLength;
     }
 
     public String getName() {
