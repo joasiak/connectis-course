@@ -49,12 +49,10 @@ public class BudynekTest {
         chatkaPuchatka.getKondygnacje()[0].getPomieszczenia()[0].getOkna()[0].otworz();
         alarm.uzbroj();
         alarm.sprawdzBudynek();
-
         assertEquals(StatusSyreny.WLACZONA, alarm.getSyrena());
-
         chatkaPuchatka.zamknijWszystkieDrzwiOkna();
         alarm.sprawdzBudynek();
-    //    alarm.wylaczSyrene();
+        alarm.wylaczSyrene();
         assertEquals(StatusSyreny.WYLACZONA, alarm.getSyrena());
 
     }
