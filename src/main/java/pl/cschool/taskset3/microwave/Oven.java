@@ -4,7 +4,8 @@ public class Oven implements Microwave {
 
     PowerStatus powerStatus = PowerStatus.OFF;
     int temperature;
-    int minutes;
+    int time;
+    OvenFunction ovenFunctionStatus;
 
     @Override
     public PowerStatus turnOn() {
@@ -14,14 +15,10 @@ public class Oven implements Microwave {
     }
 
     @Override
-    public void setTemperature(int temperature) {
-        this.temperature = temperature;
-        System.out.println("Ustawiona temperatura na: " + temperature);
-    }
-
-    @Override
-    public void setTimer(int minutes) {
-        this.minutes=minutes;
+    public void powerTimeTypeSetter(int temperature, int time, OvenFunction function) {
+        this.temperature=temperature;
+        this.time=time;
+        this.ovenFunctionStatus = function;
     }
 
     @Override
@@ -29,6 +26,22 @@ public class Oven implements Microwave {
         powerStatus = PowerStatus.OFF;
         System.out.println("Kuchenka wylaczona");
         return powerStatus;
+    }
+
+    public PowerStatus getPowerStatus() {
+        return powerStatus;
+    }
+
+    public void setPowerStatus(PowerStatus powerStatus) {
+        this.powerStatus = powerStatus;
+    }
+
+    public OvenFunction getOvenFunctionStatus() {
+        return ovenFunctionStatus;
+    }
+
+    public void setOvenFunctionStatus(OvenFunction ovenFunctionStatus) {
+        this.ovenFunctionStatus = ovenFunctionStatus;
     }
 }
 

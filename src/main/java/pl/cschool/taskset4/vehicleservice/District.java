@@ -1,0 +1,6 @@
+package pl.cschool.taskset4.vehicleservice;
+
+public enum District {
+    MAZOWIECKIE, PODLASKIE, MALOPOLSKIE, KUJAWSKO_POMORSKIE, WARMINSKO_MAZURSKIE, POMORSKIE, ZACHODNIO_POMORSKIE, SLASKIE
+
+}

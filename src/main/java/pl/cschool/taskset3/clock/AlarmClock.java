@@ -4,19 +4,17 @@ import java.util.Date;
 
 public class AlarmClock implements Clock {
 
-    AlarmStatus alarmStatus = AlarmStatus.OFF;
+    AlarmClockStatus alarmStatus = AlarmClockStatus.OFF;
     Date time = new Date();
 
     @Override
-    public AlarmStatus setAlarm() {
-        System.out.println("Alarm wlaczony");
-        return alarmStatus=AlarmStatus.ON;
+    public AlarmClockStatus alarmOn() {
+        return alarmStatus=AlarmClockStatus.ON;
     }
 
     @Override
-    public AlarmStatus turnOffAlarm() {
-        System.out.println("Alarm wylaczony");
-        return alarmStatus=AlarmStatus.OFF;
+    public AlarmClockStatus turnOffAlarm() {
+        return alarmStatus=AlarmClockStatus.OFF;
     }
 
     @Override
@@ -24,5 +22,11 @@ public class AlarmClock implements Clock {
         return time;
     }
 
+    public AlarmClockStatus getAlarmStatus() {
+        return alarmStatus;
+    }
 
+    public void setAlarmStatus(AlarmClockStatus alarmStatus) {
+        this.alarmStatus = alarmStatus;
+    }
 }

@@ -4,8 +4,8 @@ import java.util.Date;
 
 public interface Clock {
 
-    AlarmStatus setAlarm();
-    AlarmStatus turnOffAlarm();
+    AlarmClockStatus alarmOn();
+    AlarmClockStatus turnOffAlarm();
     Date getTime();
 
 }

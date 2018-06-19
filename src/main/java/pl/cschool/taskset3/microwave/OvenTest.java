@@ -11,10 +11,8 @@ public class OvenTest {
         Oven myOven = new Oven();
         myOven.powerStatus=PowerStatus.OFF;
         assertEquals(PowerStatus.ON, myOven.turnOn());
-        myOven.setTemperature(160);
-        assertEquals(160,myOven.temperature);
-        myOven.setTimer(30);
-        assertEquals(30, myOven.minutes);
+        myOven.powerTimeTypeSetter(160, 30, OvenFunction.GRILL);
+        assertEquals(OvenFunction.GRILL,myOven.getOvenFunctionStatus());
         assertEquals(PowerStatus.OFF, myOven.turnOff());
     }
 }

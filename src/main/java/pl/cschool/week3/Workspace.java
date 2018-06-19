@@ -139,12 +139,12 @@ public class Workspace {
         String k="";
         for (int i=0; i<10; i++) {
             k+="*^";
-            myList.add(k);
+            myList.addCar(k);
         }
 
         Collections.addAll(p,myList);
 
-      //  p.add("hjjk");
+      //  p.addCar("hjjk");
 
         System.out.println(p);
 
@@ -171,7 +171,7 @@ public class Workspace {
         String k="";
         for (int i=0; i<3; i++) {
             k+="*^";
-            myList.add(k);
+            myList.addCar(k);
         }
 
         for (Integer i=0; i<5; i++) {
@@ -239,15 +239,15 @@ public class Workspace {
         List myCollection = new ArrayList<Integer>();
 
         for (int i = 1; i<10; i++){
-            myCollection.add((Integer)i);
+            myCollection.addCar((Integer)i);
             System.out.println(myCollection.get(i-1));
         }
         System.out.println("Size: " + myCollection.size());
-        myCollection.add(5,122);
-        myCollection.add(7,122);
-        myCollection.add(3,5);
-        myCollection.add(4,8);
-        myCollection.add(6,8);
+        myCollection.addCar(5,122);
+        myCollection.addCar(7,122);
+        myCollection.addCar(3,5);
+        myCollection.addCar(4,8);
+        myCollection.addCar(6,8);
         System.out.println("New size: " + myCollection.size());
         System.out.println();
 
@@ -255,9 +255,9 @@ public class Workspace {
         System.out.println("Wartość na indeksie 5: " + myCollection.get(5));
 
         ArrayList<Integer> arr = new ArrayList<>();
-        arr.add(3);
-        arr.add(4);
-        arr.add(8);
+        arr.addCar(3);
+        arr.addCar(4);
+        arr.addCar(8);
 
         System.out.println("Czy zawiera kolekcję: " + myCollection.containsAll(arr));
 
@@ -292,15 +292,15 @@ public class Workspace {
         System.out.println();
 
         Set myHashSet = new HashSet<>();
-        myHashSet.add("a");
-        myHashSet.add("b");
-        myHashSet.add("C");
-        myHashSet.add("A");
-        myHashSet.add("Ab");
-        myHashSet.add("aD");
-        myHashSet.add(3);
-        myHashSet.add(4);
-        myHashSet.add(8);
+        myHashSet.addCar("a");
+        myHashSet.addCar("b");
+        myHashSet.addCar("C");
+        myHashSet.addCar("A");
+        myHashSet.addCar("Ab");
+        myHashSet.addCar("aD");
+        myHashSet.addCar(3);
+        myHashSet.addCar(4);
+        myHashSet.addCar(8);
 
         Iterator iterator4 = myHashSet.iterator();
         while (iterator4.hasNext()) {
