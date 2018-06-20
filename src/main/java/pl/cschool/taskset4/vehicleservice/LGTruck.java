@@ -4,7 +4,8 @@ import java.time.LocalDate;
 
 public class LGTruck extends Truck {
 
-    public LGTruck(MakeModelEnum model, LocalDate produced, District district) {
-        super(model, produced, district);
+    public LGTruck(MakeModelEnum model, LocalDate produced, LocalDate registerDate, District district) {
+        super(model, produced, registerDate, district);
     }
+
 }

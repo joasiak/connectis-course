@@ -6,35 +6,17 @@ import java.time.LocalDate;
 
 public class PassengerCar extends Vehicle {
 
-    private Color color;
-    private int powerKW;
-
-    public PassengerCar(MakeModelEnum model, LocalDate produced, District district) {
-        super(model, produced, district);
+    public PassengerCar(MakeModelEnum model, LocalDate produced, LocalDate registerDate, District district) {
+        super(model, produced, registerDate, district);
     }
 
-    public PassengerCar(int id, MakeModelEnum model, LocalDate produced, District district) {
-        super(id, model, produced, district);
+    public PassengerCar(int id, MakeModelEnum model, LocalDate produced, LocalDate registerDate, District district) {
+        super(id, model, produced, registerDate, district);
     }
 
     @Override
-    public void specificationSetter() {
-
+    public DrivingLicense requiredLicenseCategory() {
+        return DrivingLicense.Cat_B;
     }
 
-    public Color getColor() {
-        return color;
-    }
-
-    public void setColor(Color color) {
-        this.color = color;
-    }
-
-    public int getPowerKW() {
-        return powerKW;
-    }
-
-    public void setPowerKW(int powerKW) {
-        this.powerKW = powerKW;
-    }
 }

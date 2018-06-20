@@ -1,7 +1,6 @@
 package pl.cschool.taskset4.vehicleservice;
 
 import java.time.LocalDate;
-import java.util.Date;
 import java.util.Objects;
 
 public abstract class Vehicle implements Comparable<Vehicle> {
@@ -9,41 +8,33 @@ public abstract class Vehicle implements Comparable<Vehicle> {
     private static int idNo=0;
     private int id;
     private MakeModelEnum model;
-    private LocalDate producedIn;
+    private LocalDate produceDate;
     private LocalDate registerDate;
 
     private District district;
 
-    public Vehicle(MakeModelEnum model, LocalDate produced, District district) {
+    public Vehicle(MakeModelEnum model, LocalDate produced, LocalDate registerDate, District district) {
         id=++idNo;
         this.model = model;
-        this.producedIn = produced;
+        this.produceDate = produced;
+        this.registerDate = registerDate;
         this.district=district;
     }
 
-    public Vehicle(int id, MakeModelEnum model, LocalDate produced, District district) {
+    public Vehicle(int id, MakeModelEnum model, LocalDate produced,  LocalDate registerDate, District district) {
         this.id = id;
         this.model = model;
-        this.producedIn = produced;
+        this.produceDate = produced;
+        this.registerDate = registerDate;
         this.district = district;
     }
 
-    public DrivingLicense licenseCategory(Vehicle v){
-        if (v instanceof PassengerCar) return DrivingLicense.Cat_B;
-        else if (v instanceof Bus) return DrivingLicense.Cat_D;
-        else if (v instanceof Truck || v instanceof LGTruck) return DrivingLicense.Cat_C;
-        else return DrivingLicense.Cat_A;
-    }
-
-    public void specificationSetter(){
-
-    }
-
+    public abstract DrivingLicense requiredLicenseCategory();
 
     @Override
     public int compareTo(Vehicle o) {
-        if (this.getProducedIn().getYear() - o.getProducedIn().getYear()!=0)
-            return this.getProducedIn().getYear() - o.getProducedIn().getYear();
+        if (this.getProduceDate().getYear() - o.getProduceDate().getYear()!=0)
+            return this.getProduceDate().getYear() - o.getProduceDate().getYear();
         return this.id - o.id;
     }
 
@@ -64,12 +55,12 @@ public abstract class Vehicle implements Comparable<Vehicle> {
         this.model = model;
     }
 
-    public LocalDate getProducedIn() {
-        return producedIn;
+    public LocalDate getProduceDate() {
+        return produceDate;
     }
 
-    public void setProducedIn(LocalDate producedIn) {
-        this.producedIn = producedIn;
+    public void setProduceDate(LocalDate produceDate) {
+        this.produceDate = produceDate;
     }
 
     public LocalDate getRegisterDate() {
@@ -90,9 +81,12 @@ public abstract class Vehicle implements Comparable<Vehicle> {
 
     @Override
     public String toString() {
-        return "Vehicle{id: " + id + " " +
-                model + ": "
-                 + producedIn + " " + district +
+        return "Vehicle{" +
+                "id=" + id +
+                ", model=" + model +
+                ", produceDate=" + produceDate +
+                ", registerDate=" + registerDate +
+                ", district=" + district +
                 '}';
     }
 
@@ -102,8 +96,8 @@ public abstract class Vehicle implements Comparable<Vehicle> {
         if (o == null || getClass() != o.getClass()) return false;
         Vehicle vehicle = (Vehicle) o;
         return id == vehicle.id &&
-                producedIn == vehicle.producedIn &&
                 model == vehicle.model &&
+                Objects.equals(produceDate, vehicle.produceDate) &&
                 Objects.equals(registerDate, vehicle.registerDate) &&
                 district == vehicle.district;
     }
@@ -111,6 +105,6 @@ public abstract class Vehicle implements Comparable<Vehicle> {
     @Override
     public int hashCode() {
 
-        return Objects.hash(id, model, producedIn, registerDate, district);
+        return Objects.hash(id, model, produceDate, registerDate, district);
     }
 }

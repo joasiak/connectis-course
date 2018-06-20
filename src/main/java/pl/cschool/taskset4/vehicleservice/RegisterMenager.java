@@ -56,7 +56,7 @@ public class RegisterMenager implements Register {
     public Set<Vehicle> findOlderThan(int year) {
         return carMap.values().stream()
                 .flatMap(s->s.stream())
-                .filter(s->s.getProducedIn().getYear()<year)
+                .filter(s->s.getProduceDate().getYear()<year)
                 .collect(Collectors.toSet());
     }
 
@@ -70,26 +70,44 @@ public class RegisterMenager implements Register {
     }
 
     @Override
-    public Set<Vehicle> findOlderThan(LocalDate date) {
+    public Set<Vehicle> findOlderThanGivenDate(LocalDate date) {
         return carMap.values().stream()
                 .flatMap(x->x.stream())
-                .filter(x->x.getProducedIn().isBefore(date))
+                .filter(x->x.getProduceDate().isBefore(date))
                 .collect(Collectors.toSet());
     }
 
     @Override
     public Set<Vehicle> findRegisteredBetween(LocalDate date1, LocalDate date2) {
-        return null;
+        return carMap.values().stream()
+                .flatMap(x->x.stream())
+                .filter(x->x.getRegisterDate().isAfter(date1) && x.getRegisterDate().isBefore(date2))
+          //      .filter(x->x.getRegisterDate().isAfter(date1))
+                .collect(Collectors.toSet());
     }
 
     @Override
-    public Set<Vehicle> findRegisteredByXMonths(int months) {
-        return null;
+    public Set<Vehicle> findOlderThanXMonths(int months) {
+        return carMap.values().stream()
+                .flatMap(s->s.stream())
+                .filter(s->s.getProduceDate().isBefore(LocalDate.now().minusMonths(months)))
+                .collect(Collectors.toSet());
     }
 
     @Override
     public Set<Vehicle> findRegisteredBetweenDays(int days1, int days2) {
-        return null;
+        return carMap.values().stream()
+                .flatMap(s->s.stream())
+                .filter(s->s.getRegisterDate().isAfter(LocalDate.now().minusDays(days1)) && s.getRegisterDate().isBefore(LocalDate.now().minusDays(days2)))
+                .collect(Collectors.toSet());
+    }
+
+    @Override
+    public Set<Vehicle> findRegisteredBetweenMonths(int months1, int months2) {
+        return carMap.values().stream()
+                .flatMap(s->s.stream())
+                .filter(s->s.getRegisterDate().isAfter(LocalDate.now().minusMonths(months1)) && s.getRegisterDate().isBefore(LocalDate.now().minusMonths(months2)))
+                .collect(Collectors.toSet());
     }
 
     @Override

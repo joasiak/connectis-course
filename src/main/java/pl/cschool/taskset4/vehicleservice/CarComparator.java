@@ -6,8 +6,8 @@ public class CarComparator implements Comparator<Vehicle> {
 
     @Override
     public int compare(Vehicle o1, Vehicle o2) {
-        if (o1.getProducedIn().getYear() - o2.getProducedIn().getYear()!=0)
-            return o1.getProducedIn().getYear() - o2.getProducedIn().getYear();
+        if (o1.getProduceDate().getYear() - o2.getProduceDate().getYear()!=0)
+            return o1.getProduceDate().getYear() - o2.getProduceDate().getYear();
         return o1.getId() - o2.getId();
     }
 }

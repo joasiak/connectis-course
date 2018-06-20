@@ -15,10 +15,11 @@ public interface Register {
     HashSet<Vehicle> findByDistrict(District d);
     Set<Vehicle> findOlderThan(int year);
     Set<Vehicle> findByMake(MakeModelEnum m);
-    Set<Vehicle> findOlderThan(LocalDate date);
+    Set<Vehicle> findOlderThanGivenDate(LocalDate date);
     Set<Vehicle> findRegisteredBetween(LocalDate date1, LocalDate date2);
-    Set<Vehicle> findRegisteredByXMonths(int months);
+    Set<Vehicle> findOlderThanXMonths(int months);
     Set<Vehicle> findRegisteredBetweenDays(int days1, int days2);
+    Set<Vehicle> findRegisteredBetweenMonths(int months1, int months2);
 
     List<Vehicle> sortByProductionYear();
     List<Vehicle> sortWithComparatorByProductionYear();
