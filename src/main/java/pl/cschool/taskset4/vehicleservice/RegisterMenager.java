@@ -1,6 +1,8 @@
 package pl.cschool.taskset4.vehicleservice;
 
 import java.time.LocalDate;
+import java.time.Period;
+import java.time.temporal.ChronoUnit;
 import java.util.*;
 import java.util.stream.Collectors;
 
@@ -90,24 +92,42 @@ public class RegisterMenager implements Register {
     public Set<Vehicle> findOlderThanXMonths(int months) {
         return carMap.values().stream()
                 .flatMap(s->s.stream())
+                .filter(s-> ChronoUnit.MONTHS.between(s.getProduceDate(),LocalDate.now())>months)
+                .collect(Collectors.toSet());
+        /*
+        carMap.values().stream()
+                .flatMap(s->s.stream())
                 .filter(s->s.getProduceDate().isBefore(LocalDate.now().minusMonths(months)))
                 .collect(Collectors.toSet());
+         */
     }
 
     @Override
     public Set<Vehicle> findRegisteredBetweenDays(int days1, int days2) {
         return carMap.values().stream()
                 .flatMap(s->s.stream())
+                .filter(s->ChronoUnit.DAYS.between(s.getRegisterDate(),LocalDate.now())<=days1 && ChronoUnit.DAYS.between(s.getRegisterDate(),LocalDate.now())>=days2)
+                .collect(Collectors.toSet());
+        /*
+        carMap.values().stream()
+                .flatMap(s->s.stream())
                 .filter(s->s.getRegisterDate().isAfter(LocalDate.now().minusDays(days1)) && s.getRegisterDate().isBefore(LocalDate.now().minusDays(days2)))
                 .collect(Collectors.toSet());
+         */
     }
 
     @Override
     public Set<Vehicle> findRegisteredBetweenMonths(int months1, int months2) {
-        return carMap.values().stream()
+           return carMap.values().stream()
+                .flatMap(s->s.stream())
+                .filter(s->ChronoUnit.MONTHS.between(s.getRegisterDate(),LocalDate.now())<=months1 && ChronoUnit.DAYS.between(s.getRegisterDate(),LocalDate.now())>=months2)
+                .collect(Collectors.toSet());
+
+       /* return carMap.values().stream()
                 .flatMap(s->s.stream())
                 .filter(s->s.getRegisterDate().isAfter(LocalDate.now().minusMonths(months1)) && s.getRegisterDate().isBefore(LocalDate.now().minusMonths(months2)))
                 .collect(Collectors.toSet());
+       */
     }
 
     @Override

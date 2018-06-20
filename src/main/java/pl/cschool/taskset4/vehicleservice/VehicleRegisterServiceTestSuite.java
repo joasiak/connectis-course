@@ -114,15 +114,15 @@ public class VehicleRegisterServiceTestSuite {
     @Test
     public void findOlderThanXMonthsTest() {
 
-        carService.addCar(new PassengerCar(MakeModelEnum.BMW_X6, LocalDate.parse("2002-04-10"), LocalDate.parse("2003-02-23"), District.MAZOWIECKIE));
-        carService.addCar(new PassengerCar(MakeModelEnum.AUDI_A4, LocalDate.parse("2015-10-29"), LocalDate.parse("2014-12-23"), District.MALOPOLSKIE));
-        carService.addCar(new Motorcycle(MakeModelEnum.KAWASAKI_GTR, LocalDate.parse("2010-12-03"), LocalDate.parse("2011-02-23"), District.PODLASKIE));
-        carService.addCar(new Bus(MakeModelEnum.SAN, LocalDate.parse("2018-03-25"), LocalDate.parse("2018-04-23"), District.WARMINSKO_MAZURSKIE));
-        carService.addCar(new Truck(MakeModelEnum.JELCZ, LocalDate.parse("2001-09-18"), LocalDate.parse("2002-01-23"), District.MALOPOLSKIE));
-        carService.addCar(new PassengerCar(MakeModelEnum.FORD_FOCUS, LocalDate.parse("2013-01-07"), LocalDate.parse("2013-02-23"), District.MAZOWIECKIE));
-        carService.addCar(new Motorcycle(MakeModelEnum.YAMAHA_ZUMA, LocalDate.parse("2017-10-09"), LocalDate.parse("2017-11-18"), District.PODLASKIE));
-        carService.addCar(new Truck(MakeModelEnum.SCANIA, LocalDate.parse("2010-03-23"), LocalDate.parse("2010-04-23"), District.PODLASKIE));
-        carService.addCar(new PassengerCar(MakeModelEnum.TOYOTA_RAV4, LocalDate.parse("2011-11-03"), LocalDate.parse("2012-02-11"), District.MALOPOLSKIE));
+        carService.addCar(new PassengerCar(MakeModelEnum.BMW_X6, LocalDate.now().minusYears(6), LocalDate.now().minusYears(6).plusDays(4), District.MAZOWIECKIE));
+        carService.addCar(new PassengerCar(MakeModelEnum.AUDI_A4, LocalDate.now().minusYears(3).plusMonths(4), LocalDate.now().minusYears(3).plusMonths(4).plusDays(4), District.MALOPOLSKIE));
+        carService.addCar(new Motorcycle(MakeModelEnum.KAWASAKI_GTR, LocalDate.now().minusYears(8).plusMonths(6), LocalDate.now().minusYears(8).plusMonths(6).plusDays(4), District.PODLASKIE));
+        carService.addCar(new Bus(MakeModelEnum.SAN,  LocalDate.now().minusDays(12), LocalDate.now().minusDays(12).plusDays(4), District.WARMINSKO_MAZURSKIE));
+        carService.addCar(new Truck(MakeModelEnum.JELCZ, LocalDate.now().minusYears(7).plusMonths(3), LocalDate.now().minusYears(7).plusMonths(3).plusDays(4), District.MALOPOLSKIE));
+        carService.addCar(new PassengerCar(MakeModelEnum.FORD_FOCUS, LocalDate.now().minusYears(5).minusMonths(5), LocalDate.now().minusYears(5).minusMonths(5).plusDays(14),District.MAZOWIECKIE));
+        carService.addCar(new Motorcycle(MakeModelEnum.YAMAHA_ZUMA, LocalDate.now().minusMonths(8), LocalDate.now().minusMonths(8).plusDays(4), District.PODLASKIE));
+        carService.addCar(new Truck(MakeModelEnum.SCANIA, LocalDate.now().minusYears(8).minusMonths(3), LocalDate.now().minusYears(8).minusMonths(3).plusDays(24), District.PODLASKIE));
+        carService.addCar(new PassengerCar(MakeModelEnum.TOYOTA_RAV4, LocalDate.now().minusYears(7).plusMonths(5), LocalDate.now().minusYears(7).plusMonths(5).plusDays(4), District.MALOPOLSKIE));
 
         assertEquals(7, carService.findOlderThanXMonths(12).size());
 
@@ -130,32 +130,32 @@ public class VehicleRegisterServiceTestSuite {
 
     @Test
     public void findRegisteredBetweenDaysTest() {
-        carService.addCar(new PassengerCar(MakeModelEnum.BMW_X6, LocalDate.parse("2002-04-10"), LocalDate.parse("2002-08-23"), District.MAZOWIECKIE));
-        carService.addCar(new PassengerCar(MakeModelEnum.AUDI_A4, LocalDate.parse("2015-10-29"), LocalDate.parse("2016-02-23"), District.MALOPOLSKIE));
-        carService.addCar(new Motorcycle(MakeModelEnum.KAWASAKI_GTR, LocalDate.parse("2010-12-03"), LocalDate.parse("2011-02-23"), District.PODLASKIE));
-        carService.addCar(new Bus(MakeModelEnum.SAN, LocalDate.parse("2018-03-25"), LocalDate.parse("2018-05-23"), District.WARMINSKO_MAZURSKIE));
-        carService.addCar(new Truck(MakeModelEnum.JELCZ, LocalDate.parse("2001-09-18"), LocalDate.parse("2002-01-23"), District.MALOPOLSKIE));
-        carService.addCar(new PassengerCar(MakeModelEnum.FORD_FOCUS, LocalDate.parse("2013-01-07"), LocalDate.parse("2013-02-23"), District.MAZOWIECKIE));
-        carService.addCar(new Motorcycle(MakeModelEnum.YAMAHA_ZUMA, LocalDate.parse("2017-10-09"), LocalDate.parse("2017-11-18"), District.PODLASKIE));
-        carService.addCar(new Truck(MakeModelEnum.SCANIA, LocalDate.parse("2010-03-23"), LocalDate.parse("2010-09-23"), District.PODLASKIE));
-        carService.addCar(new PassengerCar(MakeModelEnum.TOYOTA_RAV4, LocalDate.parse("2011-11-03"), LocalDate.parse("2012-02-11"), District.MALOPOLSKIE));
+        carService.addCar(new PassengerCar(MakeModelEnum.BMW_X6, LocalDate.now().minusYears(6), LocalDate.now().minusYears(6).plusDays(4), District.MAZOWIECKIE));
+        carService.addCar(new PassengerCar(MakeModelEnum.AUDI_A4, LocalDate.now().minusYears(3).plusMonths(4), LocalDate.now().minusYears(3).plusMonths(4).plusDays(4), District.MALOPOLSKIE));
+        carService.addCar(new Motorcycle(MakeModelEnum.KAWASAKI_GTR, LocalDate.now().minusYears(8).plusMonths(6), LocalDate.now().minusYears(8).plusMonths(6).plusDays(4), District.PODLASKIE));
+        carService.addCar(new Bus(MakeModelEnum.SAN,  LocalDate.now().minusDays(30), LocalDate.now().minusDays(30).plusDays(4), District.WARMINSKO_MAZURSKIE));
+        carService.addCar(new Truck(MakeModelEnum.JELCZ, LocalDate.now().minusYears(7).plusMonths(3), LocalDate.now().minusYears(7).plusMonths(3).plusDays(4), District.MALOPOLSKIE));
+        carService.addCar(new PassengerCar(MakeModelEnum.FORD_FOCUS, LocalDate.now().minusYears(5).minusMonths(5), LocalDate.now().minusYears(5).minusMonths(5).plusDays(14),District.MAZOWIECKIE));
+        carService.addCar(new Motorcycle(MakeModelEnum.YAMAHA_ZUMA, LocalDate.now().minusMonths(8), LocalDate.now().minusMonths(8).plusDays(4), District.PODLASKIE));
+        carService.addCar(new Truck(MakeModelEnum.SCANIA, LocalDate.now().minusYears(8).minusMonths(3), LocalDate.now().minusYears(8).minusMonths(3).plusDays(24), District.PODLASKIE));
+        carService.addCar(new PassengerCar(MakeModelEnum.TOYOTA_RAV4, LocalDate.now().minusYears(7).plusMonths(5), LocalDate.now().minusYears(7).plusMonths(5).plusDays(4), District.MALOPOLSKIE));
 
         assertEquals(1, carService.findRegisteredBetweenDays(45, 20).size());
     }
 
     @Test
     public void findRegisteredBetweenMonthsTest() {
-        carService.addCar(new PassengerCar(MakeModelEnum.BMW_X6, LocalDate.parse("2002-04-10"), LocalDate.parse("2002-08-23"), District.MAZOWIECKIE));
-        carService.addCar(new PassengerCar(MakeModelEnum.AUDI_A4, LocalDate.parse("2015-10-29"), LocalDate.parse("2016-02-23"), District.MALOPOLSKIE));
-        carService.addCar(new Motorcycle(MakeModelEnum.KAWASAKI_GTR, LocalDate.parse("2010-12-03"), LocalDate.parse("2011-02-23"), District.PODLASKIE));
-        carService.addCar(new Bus(MakeModelEnum.SAN, LocalDate.parse("2018-03-25"), LocalDate.parse("2018-05-23"), District.WARMINSKO_MAZURSKIE));
-        carService.addCar(new Truck(MakeModelEnum.JELCZ, LocalDate.parse("2001-09-18"), LocalDate.parse("2002-01-23"), District.MALOPOLSKIE));
-        carService.addCar(new PassengerCar(MakeModelEnum.FORD_FOCUS, LocalDate.parse("2013-01-07"), LocalDate.parse("2013-02-23"), District.MAZOWIECKIE));
-        carService.addCar(new Motorcycle(MakeModelEnum.YAMAHA_ZUMA, LocalDate.parse("2017-10-09"), LocalDate.parse("2017-11-18"), District.PODLASKIE));
-        carService.addCar(new Truck(MakeModelEnum.SCANIA, LocalDate.parse("2010-03-23"), LocalDate.parse("2010-09-23"), District.PODLASKIE));
-        carService.addCar(new PassengerCar(MakeModelEnum.TOYOTA_RAV4, LocalDate.parse("2011-11-03"), LocalDate.parse("2012-02-11"), District.MALOPOLSKIE));
+        carService.addCar(new PassengerCar(MakeModelEnum.BMW_X6, LocalDate.now().minusYears(6), LocalDate.now().minusYears(6).plusDays(4), District.MAZOWIECKIE));
+        carService.addCar(new PassengerCar(MakeModelEnum.AUDI_A4, LocalDate.now().minusYears(3).plusMonths(4), LocalDate.now().minusYears(3).plusMonths(4).plusDays(4), District.MALOPOLSKIE));
+        carService.addCar(new Motorcycle(MakeModelEnum.KAWASAKI_GTR, LocalDate.now().minusYears(8).plusMonths(6), LocalDate.now().minusYears(8).plusMonths(6).plusDays(4), District.PODLASKIE));
+        carService.addCar(new Bus(MakeModelEnum.SAN,  LocalDate.now().minusDays(12), LocalDate.now().minusDays(12).plusDays(4), District.WARMINSKO_MAZURSKIE));
+        carService.addCar(new Truck(MakeModelEnum.JELCZ, LocalDate.now().minusYears(7).plusMonths(3), LocalDate.now().minusYears(7).plusMonths(3).plusDays(4), District.MALOPOLSKIE));
+        carService.addCar(new PassengerCar(MakeModelEnum.FORD_FOCUS, LocalDate.now().minusYears(5).minusMonths(5), LocalDate.now().minusYears(5).minusMonths(5).plusDays(14),District.MAZOWIECKIE));
+        carService.addCar(new Motorcycle(MakeModelEnum.YAMAHA_ZUMA, LocalDate.now().minusMonths(8), LocalDate.now().minusMonths(8).plusDays(4), District.PODLASKIE));
+        carService.addCar(new Truck(MakeModelEnum.SCANIA, LocalDate.now().minusYears(8).minusMonths(3), LocalDate.now().minusYears(8).minusMonths(3).plusDays(24), District.PODLASKIE));
+        carService.addCar(new PassengerCar(MakeModelEnum.TOYOTA_RAV4, LocalDate.now().minusYears(7).plusMonths(5), LocalDate.now().minusYears(7).plusMonths(5).plusDays(4), District.MALOPOLSKIE));
 
-        assertEquals(2, carService.findRegisteredBetweenMonths(36, 6).size());
+        assertEquals(3, carService.findRegisteredBetweenMonths(36, 6).size());
     }
 
 

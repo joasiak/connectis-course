@@ -1,31 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/main/java/pl/cschool/taskset4/vehicleservice/VehicleRegisterServiceTestSuite.java" line="135" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="83c5e3cf-13c2-4732-bb2a-dfcaf28a1d06" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/pl/cschool/taskset4/vehicleservice/Bus.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/pl/cschool/taskset4/vehicleservice/Bus.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/pl/cschool/taskset4/vehicleservice/CarComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/pl/cschool/taskset4/vehicleservice/CarComparator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/pl/cschool/taskset4/vehicleservice/Color.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/pl/cschool/taskset4/vehicleservice/Engine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/pl/cschool/taskset4/vehicleservice/LGTruck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/pl/cschool/taskset4/vehicleservice/LGTruck.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/pl/cschool/taskset4/vehicleservice/Motorcycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/pl/cschool/taskset4/vehicleservice/Motorcycle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/pl/cschool/taskset4/vehicleservice/PassengerCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/pl/cschool/taskset4/vehicleservice/PassengerCar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/pl/cschool/taskset4/vehicleservice/Register.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/pl/cschool/taskset4/vehicleservice/Register.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/classes/pl/cschool/taskset4/vehicleservice/RegisterMenager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/pl/cschool/taskset4/vehicleservice/RegisterMenager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/pl/cschool/taskset4/vehicleservice/Truck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/pl/cschool/taskset4/vehicleservice/Truck.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/pl/cschool/taskset4/vehicleservice/Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/pl/cschool/taskset4/vehicleservice/Vehicle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/pl/cschool/taskset4/vehicleservice/VehicleRegisterServiceTestSuite.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/pl/cschool/taskset4/vehicleservice/VehicleRegisterServiceTestSuite.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/cschool/taskset4/vehicleservice/Bus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/cschool/taskset4/vehicleservice/Bus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/cschool/taskset4/vehicleservice/CarComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/cschool/taskset4/vehicleservice/CarComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/cschool/taskset4/vehicleservice/Color.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/cschool/taskset4/vehicleservice/Engine.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/cschool/taskset4/vehicleservice/LGTruck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/cschool/taskset4/vehicleservice/LGTruck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/cschool/taskset4/vehicleservice/Motorcycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/cschool/taskset4/vehicleservice/Motorcycle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/cschool/taskset4/vehicleservice/PassengerCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/cschool/taskset4/vehicleservice/PassengerCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/cschool/taskset4/vehicleservice/Register.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/cschool/taskset4/vehicleservice/Register.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pl/cschool/taskset4/vehicleservice/RegisterMenager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/cschool/taskset4/vehicleservice/RegisterMenager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/cschool/taskset4/vehicleservice/Truck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/cschool/taskset4/vehicleservice/Truck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/cschool/taskset4/vehicleservice/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/cschool/taskset4/vehicleservice/Vehicle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pl/cschool/taskset4/vehicleservice/VehicleRegisterServiceTestSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/cschool/taskset4/vehicleservice/VehicleRegisterServiceTestSuite.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -92,8 +74,8 @@
       <file leaf-file-name="Vehicle.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pl/cschool/taskset4/vehicleservice/Vehicle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="31" column="58" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="58" />
+            <state relative-caret-position="194">
+              <caret line="58" selection-start-line="58" selection-end-line="58" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1546#1547#0" expanded="true" />
@@ -104,7 +86,6 @@
                 <element signature="e#1699#1700#0" expanded="true" />
                 <element signature="e#1748#1749#0" expanded="true" />
                 <element signature="e#1782#1783#0" expanded="true" />
-                <element signature="e#1823#1824#0" expanded="true" />
                 <element signature="e#1857#1858#0" expanded="true" />
                 <element signature="e#1914#1915#0" expanded="true" />
                 <element signature="e#1960#1961#0" expanded="true" />
@@ -124,8 +105,8 @@
       <file leaf-file-name="VehicleRegisterServiceTestSuite.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/pl/cschool/taskset4/vehicleservice/VehicleRegisterServiceTestSuite.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+            <state>
+              <caret lean-forward="true" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -194,17 +175,8 @@
       <file leaf-file-name="RegisterMenager.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pl/cschool/taskset4/vehicleservice/RegisterMenager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="333">
-              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CarComparator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/cschool/taskset4/vehicleservice/CarComparator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="379">
+              <caret line="122" column="37" selection-start-line="122" selection-start-column="37" selection-end-line="122" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -573,13 +545,13 @@
         <option value="$PROJECT_DIR$/src/main/java/pl/cschool/taskset4/vehicleservice/CarComparator.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/cschool/week4/nd/shape/Work.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/cschool/taskset4/vehicleservice/Register.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/cschool/taskset4/vehicleservice/RegisterMenager.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/cschool/taskset4/vehicleservice/LGTruck.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/cschool/taskset4/vehicleservice/Vehicle.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/cschool/taskset4/vehicleservice/Bus.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/cschool/taskset4/vehicleservice/Truck.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/cschool/taskset4/vehicleservice/Motorcycle.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/cschool/taskset4/vehicleservice/PassengerCar.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/cschool/taskset4/vehicleservice/RegisterMenager.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/cschool/taskset4/vehicleservice/VehicleRegisterServiceTestSuite.java" />
       </list>
     </option>
@@ -774,7 +746,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.VehicleRegisterServiceTestSuite">
+  <component name="RunManager" selected="JUnit.VehicleRegisterServiceTestSuite.findRegisteredBetweenDaysTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -804,7 +776,7 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="VehicleRegisterServiceTestSuite.findOlderThanGivenDateTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="VehicleRegisterServiceTestSuite.findOlderThanXMonthsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="cschool-projects_main" />
       <extension name="coverage">
         <pattern>
@@ -816,7 +788,30 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="pl.cschool.taskset4.vehicleservice" />
       <option name="MAIN_CLASS_NAME" value="pl.cschool.taskset4.vehicleservice.VehicleRegisterServiceTestSuite" />
-      <option name="METHOD_NAME" value="findOlderThanGivenDateTest" />
+      <option name="METHOD_NAME" value="findOlderThanXMonthsTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="VehicleRegisterServiceTestSuite.findRegisteredBetweenDaysTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cschool-projects_main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.cschool.taskset4.vehicleservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="pl.cschool.taskset4.vehicleservice" />
+      <option name="MAIN_CLASS_NAME" value="pl.cschool.taskset4.vehicleservice.VehicleRegisterServiceTestSuite" />
+      <option name="METHOD_NAME" value="findRegisteredBetweenDaysTest" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -850,7 +845,7 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="VehicleRegisterServiceTestSuite.requiredLicenseCategoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="VehicleRegisterServiceTestSuite.sortByProductionYearTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="cschool-projects_main" />
       <extension name="coverage">
         <pattern>
@@ -862,30 +857,7 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="pl.cschool.taskset4.vehicleservice" />
       <option name="MAIN_CLASS_NAME" value="pl.cschool.taskset4.vehicleservice.VehicleRegisterServiceTestSuite" />
-      <option name="METHOD_NAME" value="requiredLicenseCategoryTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="VehicleRegisterServiceTestSuite.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="cschool-projects_main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pl.cschool.taskset4.vehicleservice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="pl.cschool.taskset4.vehicleservice" />
-      <option name="MAIN_CLASS_NAME" value="pl.cschool.taskset4.vehicleservice.VehicleRegisterServiceTestSuite" />
-      <option name="METHOD_NAME" value="test1" />
+      <option name="METHOD_NAME" value="sortByProductionYearTest" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -948,19 +920,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list>
-      <item itemvalue="JUnit.VehicleRegisterServiceTestSuite.findOlderThanGivenDateTest" />
-      <item itemvalue="JUnit.VehicleRegisterServiceTestSuite.findRegisteredBetweenMonthsTest" />
       <item itemvalue="JUnit.VehicleRegisterServiceTestSuite" />
-      <item itemvalue="JUnit.VehicleRegisterServiceTestSuite.test1" />
-      <item itemvalue="JUnit.VehicleRegisterServiceTestSuite.requiredLicenseCategoryTest" />
+      <item itemvalue="JUnit.VehicleRegisterServiceTestSuite.findOlderThanXMonthsTest" />
+      <item itemvalue="JUnit.VehicleRegisterServiceTestSuite.findRegisteredBetweenDaysTest" />
+      <item itemvalue="JUnit.VehicleRegisterServiceTestSuite.findRegisteredBetweenMonthsTest" />
+      <item itemvalue="JUnit.VehicleRegisterServiceTestSuite.sortByProductionYearTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.VehicleRegisterServiceTestSuite" />
-        <item itemvalue="JUnit.VehicleRegisterServiceTestSuite.requiredLicenseCategoryTest" />
-        <item itemvalue="JUnit.VehicleRegisterServiceTestSuite.test1" />
+        <item itemvalue="JUnit.VehicleRegisterServiceTestSuite.findRegisteredBetweenDaysTest" />
+        <item itemvalue="JUnit.VehicleRegisterServiceTestSuite.sortByProductionYearTest" />
         <item itemvalue="JUnit.VehicleRegisterServiceTestSuite.findRegisteredBetweenMonthsTest" />
-        <item itemvalue="JUnit.VehicleRegisterServiceTestSuite.findOlderThanGivenDateTest" />
+        <item itemvalue="JUnit.VehicleRegisterServiceTestSuite.findOlderThanXMonthsTest" />
+        <item itemvalue="JUnit.VehicleRegisterServiceTestSuite" />
       </list>
     </recent_temporary>
   </component>
@@ -982,44 +954,44 @@
       <workItem from="1528617239065" duration="69454000" />
       <workItem from="1529134259257" duration="59840000" />
       <workItem from="1529236927501" duration="25243000" />
-      <workItem from="1529438752158" duration="11639000" />
+      <workItem from="1529438752158" duration="15758000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="VehicleRegisterServiceTestSuite_findRegisteredBetweenMonthsTest - 2018.06.20 at 07h 33m 20s.xml">
+    <history-entry file="VehicleRegisterServiceTestSuite_findRegisteredBetweenDaysTest - 2018.06.20 at 08h 55m 56s.xml">
+      <configuration name="VehicleRegisterServiceTestSuite.findRegisteredBetweenDaysTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VehicleRegisterServiceTestSuite_findRegisteredBetweenDaysTest - 2018.06.20 at 08h 56m 19s.xml">
+      <configuration name="VehicleRegisterServiceTestSuite.findRegisteredBetweenDaysTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VehicleRegisterServiceTestSuite_findRegisteredBetweenMonthsTest - 2018.06.20 at 09h 03m 35s.xml">
       <configuration name="VehicleRegisterServiceTestSuite.findRegisteredBetweenMonthsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="VehicleRegisterServiceTestSuite_findRegisteredBetweenMonthsTest - 2018.06.20 at 07h 33m 29s.xml">
+    <history-entry file="VehicleRegisterServiceTestSuite_findRegisteredBetweenMonthsTest - 2018.06.20 at 09h 05m 05s.xml">
       <configuration name="VehicleRegisterServiceTestSuite.findRegisteredBetweenMonthsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="VehicleRegisterServiceTestSuite - 2018.06.20 at 07h 41m 46s.xml">
-      <configuration name="VehicleRegisterServiceTestSuite" configurationId="JUnit" />
+    <history-entry file="VehicleRegisterServiceTestSuite_findOlderThanXMonthsTest - 2018.06.20 at 09h 18m 13s.xml">
+      <configuration name="VehicleRegisterServiceTestSuite.findOlderThanXMonthsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="VehicleRegisterServiceTestSuite_test1 - 2018.06.20 at 07h 48m 37s.xml">
-      <configuration name="VehicleRegisterServiceTestSuite.test1" configurationId="JUnit" />
+    <history-entry file="VehicleRegisterServiceTestSuite_findRegisteredBetweenDaysTest - 2018.06.20 at 09h 18m 18s.xml">
+      <configuration name="VehicleRegisterServiceTestSuite.findRegisteredBetweenDaysTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="VehicleRegisterServiceTestSuite_test1 - 2018.06.20 at 07h 48m 46s.xml">
-      <configuration name="VehicleRegisterServiceTestSuite.test1" configurationId="JUnit" />
+    <history-entry file="VehicleRegisterServiceTestSuite_findRegisteredBetweenMonthsTest - 2018.06.20 at 09h 18m 29s.xml">
+      <configuration name="VehicleRegisterServiceTestSuite.findRegisteredBetweenMonthsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="VehicleRegisterServiceTestSuite - 2018.06.20 at 07h 48m 51s.xml">
-      <configuration name="VehicleRegisterServiceTestSuite" configurationId="JUnit" />
+    <history-entry file="VehicleRegisterServiceTestSuite_sortByProductionYearTest - 2018.06.20 at 09h 18m 36s.xml">
+      <configuration name="VehicleRegisterServiceTestSuite.sortByProductionYearTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="VehicleRegisterServiceTestSuite_test1 - 2018.06.20 at 07h 58m 28s.xml">
-      <configuration name="VehicleRegisterServiceTestSuite.test1" configurationId="JUnit" />
+    <history-entry file="VehicleRegisterServiceTestSuite_findRegisteredBetweenDaysTest - 2018.06.20 at 09h 18m 47s.xml">
+      <configuration name="VehicleRegisterServiceTestSuite.findRegisteredBetweenDaysTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="VehicleRegisterServiceTestSuite - 2018.06.20 at 07h 58m 32s.xml">
-      <configuration name="VehicleRegisterServiceTestSuite" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="VehicleRegisterServiceTestSuite_requiredLicenseCategoryTest - 2018.06.20 at 08h 10m 59s.xml">
-      <configuration name="VehicleRegisterServiceTestSuite.requiredLicenseCategoryTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="VehicleRegisterServiceTestSuite - 2018.06.20 at 08h 11m 09s.xml">
-      <configuration name="VehicleRegisterServiceTestSuite" configurationId="JUnit" />
+    <history-entry file="VehicleRegisterServiceTestSuite_findRegisteredBetweenDaysTest - 2018.06.20 at 09h 19m 09s.xml">
+      <configuration name="VehicleRegisterServiceTestSuite.findRegisteredBetweenDaysTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="326559000" />
+    <option name="totallyTimeSpent" value="330678000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1107,9 +1079,12 @@
           <option name="timeStamp" value="58" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="143" />
+      <option name="time" value="146" />
     </breakpoint-manager>
     <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="LocalDate.now()" />
+      </configuration>
       <configuration name="Application">
         <watch expression="str.substring(i,i+s.length())" />
       </configuration>
@@ -1127,15 +1102,15 @@
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>Period.between(s.getProduceDate(),LocalDate.now()).getMonths()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/cschool/taskset3/cashpoint/AtmTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/cschool/taskset4/employee/Secretary.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
@@ -1362,13 +1337,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/time/LocalDate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="136" column="19" selection-start-line="136" selection-start-column="19" selection-end-line="136" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/cschool/taskset4/vehicleservice/District.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
@@ -1459,13 +1427,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/cschool/taskset4/vehicleservice/RegisterMenager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/cschool/taskset4/vehicleservice/Truck.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -1477,10 +1438,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/function/Predicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/cschool/taskset4/vehicleservice/Vehicle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="31" column="58" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="58" />
+        <state relative-caret-position="194">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1546#1547#0" expanded="true" />
@@ -1491,7 +1459,6 @@
             <element signature="e#1699#1700#0" expanded="true" />
             <element signature="e#1748#1749#0" expanded="true" />
             <element signature="e#1782#1783#0" expanded="true" />
-            <element signature="e#1823#1824#0" expanded="true" />
             <element signature="e#1857#1858#0" expanded="true" />
             <element signature="e#1914#1915#0" expanded="true" />
             <element signature="e#1960#1961#0" expanded="true" />
@@ -1507,10 +1474,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/time/LocalDate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="190" column="27" selection-start-line="190" selection-start-column="18" selection-end-line="190" selection-end-column="27" />
+          <folding>
+            <element signature="e#7027#7028#0" expanded="true" />
+            <element signature="e#7080#7081#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/cschool/taskset4/vehicleservice/RegisterMenager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="122" column="37" selection-start-line="122" selection-start-column="37" selection-end-line="122" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/cschool/taskset4/vehicleservice/VehicleRegisterServiceTestSuite.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+        <state>
+          <caret lean-forward="true" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
