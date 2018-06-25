@@ -1,0 +1,5 @@
+package zzz.library;
+
+public enum BookCategory {
+    SCIENCE_FICTION, TRAVEL, CHILDRENS, ART, COOKBOOKS, DIARIES, SCIENCE, HISTORY, FANTASY, POETRY
+}
