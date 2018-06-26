@@ -5,37 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="83c5e3cf-13c2-4732-bb2a-dfcaf28a1d06" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/zzz/aaa/AiportTestSuite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zzz/aaa/AirlinesComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zzz/aaa/Airplane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zzz/aaa/Airport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zzz/aaa/AirportController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zzz/aaa/DbService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zzz/aaa/DepartureAirportComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zzz/aaa/Flight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zzz/aaa/FlightDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zzz/aaa/FlightStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zzz/foo/DbService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zzz/foo/LeagueTableController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zzz/foo/LeagueTestSuite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zzz/foo/MatchDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zzz/foo/MatchResultEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zzz/foo/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zzz/foo/Team.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zzz/foo2/DbService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zzz/foo2/Goal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zzz/foo2/LeagueTableController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zzz/foo2/LeagueTestSuite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zzz/foo2/MatchDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zzz/foo2/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zzz/foo2/Team.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zzz/library/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zzz/library/BookCategory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zzz/library/BookRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zzz/library/DbService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zzz/library/LibraryController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zzz/library/LibraryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/cschool/exam/GroupRegisterManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/cschool/exam/GroupStats.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/cschool/exam/RegisterTestSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/cschool/exam/ScoreDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/cschool/exam/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/cschool/exam/StudentComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/cschool/exam/Subjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/cschool/exam/Teacher.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/zzz/airport/AiportTestSuite.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/zzz/airport/AirlinesComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/zzz/airport/Airplane.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/zzz/airport/Airport.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/zzz/airport/AirportController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/zzz/airport/DbService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/zzz/airport/DepartureAirportComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/zzz/airport/Flight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/zzz/airport/FlightDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/zzz/airport/FlightStatus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/zzz/football/DbService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/zzz/football/LeagueTableController$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/zzz/football/LeagueTableController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/zzz/football/LeagueTestSuite.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/zzz/football/MatchDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/zzz/football/MatchResultEnum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/zzz/football/Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/zzz/football/Team.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -97,7 +93,138 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <splitter split-orientation="horizontal" split-proportion="0.7672995">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="Student.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/pl/cschool/exam/Student.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="476">
+                  <caret line="40" column="33" selection-start-line="40" selection-start-column="33" selection-end-line="40" selection-end-column="33" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                    <element signature="e#231#232#0" expanded="true" />
+                    <element signature="e#258#259#0" expanded="true" />
+                    <element signature="e#293#294#0" expanded="true" />
+                    <element signature="e#325#326#0" expanded="true" />
+                    <element signature="e#311#312#0" expanded="true" />
+                    <element signature="e#365#366#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="ScoreDto.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/pl/cschool/exam/ScoreDto.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="376">
+                  <caret line="26" column="33" lean-forward="true" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                    <element signature="e#200#201#0" expanded="true" />
+                    <element signature="e#228#229#0" expanded="true" />
+                    <element signature="e#267#268#0" expanded="true" />
+                    <element signature="e#299#300#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Subjects.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/pl/cschool/exam/Subjects.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="60">
+                  <caret line="3" column="37" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Teacher.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/pl/cschool/exam/Teacher.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="100">
+                  <caret line="5" selection-start-line="5" selection-end-line="5" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="GroupStats.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/pl/cschool/exam/GroupStats.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="340">
+                  <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="GroupRegisterManager.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/pl/cschool/exam/GroupRegisterManager.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="291">
+                  <caret line="94" column="62" lean-forward="true" selection-start-line="94" selection-start-column="62" selection-end-line="94" selection-end-column="62" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                    <element signature="e#2919#2920#0" expanded="true" />
+                    <element signature="e#2950#2951#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="RegisterTestSuite.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/java/pl/cschool/exam/RegisterTestSuite.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="397">
+                  <caret line="171" column="20" selection-start-line="171" selection-start-column="20" selection-end-line="171" selection-end-column="20" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="StudentComparator.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/pl/cschool/exam/StudentComparator.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="220">
+                  <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                    <element signature="e#243#244#0" expanded="true" />
+                    <element signature="e#269#270#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="RegisterMenager.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/pl/cschool/taskset4/vehicleservice/RegisterMenager.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="2840">
+                  <caret line="148" lean-forward="true" selection-start-line="148" selection-end-line="148" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="RegisterMenager.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/java/pl/cschool/taskset4/vehicleservice/RegisterMenager.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="340">
+                  <caret line="41" column="39" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="39" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -409,17 +536,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/pl/cschool/taskset3/audio/Audio.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/cschool/taskset3/audio/MyAudioTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/cschool/taskset4/smarthome/AbstractRoom.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/cschool/taskset4/vehicleservice/DrivingLicense.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/cschool/taskset4/vehicleservice/Car.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/cschool/taskset4/vehicleservice/CarComparator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/cschool/week4/nd/shape/Work.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/cschool/taskset4/vehicleservice/Register.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/cschool/taskset4/vehicleservice/LGTruck.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/cschool/taskset4/vehicleservice/Vehicle.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/cschool/taskset4/vehicleservice/Bus.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/cschool/taskset4/vehicleservice/Truck.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/cschool/taskset4/vehicleservice/Motorcycle.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/cschool/taskset4/vehicleservice/PassengerCar.java" />
@@ -460,6 +576,17 @@
         <option value="$PROJECT_DIR$/src/main/java/zzz/football2/LeagueTableController.java" />
         <option value="$PROJECT_DIR$/src/main/java/zzz/football2/LeagueTestSuite.java" />
         <option value="$PROJECT_DIR$/src/main/java/zzz/foo2/LeagueTestSuite.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/cschool/exam/Subjects.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/cschool/exam/Teacher.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/cschool/exam/ClassRegister.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/cschool/exam/ClassRegisterManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/cschool/exam/Group.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/cschool/exam/StudentComparator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/cschool/exam/Student.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/cschool/exam/ScoreDto.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/cschool/exam/GroupStats.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/cschool/exam/GroupRegisterManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/cschool/exam/RegisterTestSuite.java" />
       </list>
     </option>
   </component>
@@ -486,9 +613,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -526,6 +650,24 @@
               <item name="cschool-projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="cschool-projects" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cschool" type="462c0819:PsiDirectoryNode" />
+              <item name="exam" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cschool-projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cschool-projects" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cschool" type="462c0819:PsiDirectoryNode" />
+              <item name="taskset4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cschool-projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cschool-projects" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
@@ -551,6 +693,9 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -604,26 +749,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.LeagueTestSuite">
+  <component name="RunManager" selected="JUnit.RegisterTestSuite.sortByAvgScoreTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="AiportTestSuite.sortByAirlines" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RegisterTestSuite.avgPerStudentTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="cschool-projects_main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="zzz.aaa.*" />
+          <option name="PATTERN" value="pl.cschool.exam.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="zzz.aaa" />
-      <option name="MAIN_CLASS_NAME" value="zzz.aaa.AiportTestSuite" />
-      <option name="METHOD_NAME" value="sortByAirlines" />
+      <option name="PACKAGE_NAME" value="pl.cschool.exam" />
+      <option name="MAIN_CLASS_NAME" value="pl.cschool.exam.RegisterTestSuite" />
+      <option name="METHOD_NAME" value="avgPerStudentTest" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -634,42 +779,19 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="LeagueTestSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RegisterTestSuite.avgScorePerSubjectTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="cschool-projects_main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="zzz.foo.*" />
+          <option name="PATTERN" value="pl.cschool.exam.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="zzz.foo" />
-      <option name="MAIN_CLASS_NAME" value="zzz.foo.LeagueTestSuite" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="LeagueTestSuite.findAllMatchesBetweenTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="cschool-projects_main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="zzz.foo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="zzz.foo" />
-      <option name="MAIN_CLASS_NAME" value="zzz.foo.LeagueTestSuite" />
-      <option name="METHOD_NAME" value="findAllMatchesBetweenTest" />
+      <option name="PACKAGE_NAME" value="pl.cschool.exam" />
+      <option name="MAIN_CLASS_NAME" value="pl.cschool.exam.RegisterTestSuite" />
+      <option name="METHOD_NAME" value="avgScorePerSubjectTest" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -680,19 +802,19 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="LeagueTestSuite.findMatchesPlayedByGivenTeamTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RegisterTestSuite.findAllScoresBetweenTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="cschool-projects_main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="zzz.foo.*" />
+          <option name="PATTERN" value="pl.cschool.exam.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="zzz.foo" />
-      <option name="MAIN_CLASS_NAME" value="zzz.foo.LeagueTestSuite" />
-      <option name="METHOD_NAME" value="findMatchesPlayedByGivenTeamTest" />
+      <option name="PACKAGE_NAME" value="pl.cschool.exam" />
+      <option name="MAIN_CLASS_NAME" value="pl.cschool.exam.RegisterTestSuite" />
+      <option name="METHOD_NAME" value="findAllScoresBetweenTest" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -703,19 +825,42 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="LeagueTestSuite.sortByTeamScoreTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RegisterTestSuite.sortByAlphabeticalOrderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="cschool-projects_main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="zzz.foo.*" />
+          <option name="PATTERN" value="pl.cschool.exam.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="zzz.foo" />
-      <option name="MAIN_CLASS_NAME" value="zzz.foo.LeagueTestSuite" />
-      <option name="METHOD_NAME" value="sortByTeamScoreTest" />
+      <option name="PACKAGE_NAME" value="pl.cschool.exam" />
+      <option name="MAIN_CLASS_NAME" value="pl.cschool.exam.RegisterTestSuite" />
+      <option name="METHOD_NAME" value="sortByAlphabeticalOrderTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="RegisterTestSuite.sortByAvgScoreTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cschool-projects_main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.cschool.exam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="pl.cschool.exam" />
+      <option name="MAIN_CLASS_NAME" value="pl.cschool.exam.RegisterTestSuite" />
+      <option name="METHOD_NAME" value="sortByAvgScoreTest" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -778,19 +923,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list>
-      <item itemvalue="JUnit.AiportTestSuite.sortByAirlines" />
-      <item itemvalue="JUnit.LeagueTestSuite.findAllMatchesBetweenTest" />
-      <item itemvalue="JUnit.LeagueTestSuite" />
-      <item itemvalue="JUnit.LeagueTestSuite.findMatchesPlayedByGivenTeamTest" />
-      <item itemvalue="JUnit.LeagueTestSuite.sortByTeamScoreTest" />
+      <item itemvalue="JUnit.RegisterTestSuite.findAllScoresBetweenTest" />
+      <item itemvalue="JUnit.RegisterTestSuite.avgScorePerSubjectTest" />
+      <item itemvalue="JUnit.RegisterTestSuite.sortByAlphabeticalOrderTest" />
+      <item itemvalue="JUnit.RegisterTestSuite.avgPerStudentTest" />
+      <item itemvalue="JUnit.RegisterTestSuite.sortByAvgScoreTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.LeagueTestSuite" />
-        <item itemvalue="JUnit.LeagueTestSuite.sortByTeamScoreTest" />
-        <item itemvalue="JUnit.LeagueTestSuite.findMatchesPlayedByGivenTeamTest" />
-        <item itemvalue="JUnit.LeagueTestSuite.findAllMatchesBetweenTest" />
-        <item itemvalue="JUnit.AiportTestSuite.sortByAirlines" />
+        <item itemvalue="JUnit.RegisterTestSuite.sortByAvgScoreTest" />
+        <item itemvalue="JUnit.RegisterTestSuite.avgPerStudentTest" />
+        <item itemvalue="JUnit.RegisterTestSuite.sortByAlphabeticalOrderTest" />
+        <item itemvalue="JUnit.RegisterTestSuite.avgScorePerSubjectTest" />
+        <item itemvalue="JUnit.RegisterTestSuite.findAllScoresBetweenTest" />
       </list>
     </recent_temporary>
   </component>
@@ -814,47 +959,49 @@
       <workItem from="1529236927501" duration="25243000" />
       <workItem from="1529438752158" duration="15866000" />
       <workItem from="1529479503272" duration="5175000" />
-      <workItem from="1529808865538" duration="35221000" />
+      <workItem from="1529808865538" duration="35314000" />
+      <workItem from="1529995070816" duration="10165000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AiportTestSuite_sortByDepartureAirport - 2018.06.25 at 11h 28m 54s.xml">
-      <configuration name="AiportTestSuite.sortByDepartureAirport" configurationId="JUnit" />
+    <history-entry file="RegisterTestSuite_avgPerStudentTest - 2018.06.26 at 13h 24m 56s.xml">
+      <configuration name="RegisterTestSuite.avgPerStudentTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AiportTestSuite_sortByAirlines - 2018.06.25 at 11h 29m 32s.xml">
-      <configuration name="AiportTestSuite.sortByAirlines" configurationId="JUnit" />
+    <history-entry file="RegisterTestSuite_sortByAvgScoreTest - 2018.06.26 at 13h 32m 30s.xml">
+      <configuration name="RegisterTestSuite.sortByAvgScoreTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LeagueTestSuite_findAllMatchesBetweenTest - 2018.06.25 at 21h 07m 31s.xml">
-      <configuration name="LeagueTestSuite.findAllMatchesBetweenTest" configurationId="JUnit" />
+    <history-entry file="RegisterTestSuite_sortByAvgScoreTest - 2018.06.26 at 13h 32m 43s.xml">
+      <configuration name="RegisterTestSuite.sortByAvgScoreTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LeagueTestSuite_findAllMatchesBetweenTest - 2018.06.25 at 21h 08m 49s.xml">
-      <configuration name="LeagueTestSuite.findAllMatchesBetweenTest" configurationId="JUnit" />
+    <history-entry file="RegisterTestSuite_sortByAvgScoreTest - 2018.06.26 at 13h 34m 15s.xml">
+      <configuration name="RegisterTestSuite.sortByAvgScoreTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LeagueTestSuite - 2018.06.25 at 21h 09m 44s.xml">
-      <configuration name="LeagueTestSuite" configurationId="JUnit" />
+    <history-entry file="RegisterTestSuite_sortByAvgScoreTest - 2018.06.26 at 13h 34m 47s.xml">
+      <configuration name="RegisterTestSuite.sortByAvgScoreTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LeagueTestSuite_findMatchesPlayedByGivenTeamTest - 2018.06.25 at 21h 28m 35s.xml">
-      <configuration name="LeagueTestSuite.findMatchesPlayedByGivenTeamTest" configurationId="JUnit" />
+    <history-entry file="RegisterTestSuite_sortByAvgScoreTest - 2018.06.26 at 13h 36m 51s.xml">
+      <configuration name="RegisterTestSuite.sortByAvgScoreTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LeagueTestSuite_sortByTeamScoreTest - 2018.06.25 at 21h 29m 57s.xml">
-      <configuration name="LeagueTestSuite.sortByTeamScoreTest" configurationId="JUnit" />
+    <history-entry file="RegisterTestSuite_sortByAvgScoreTest - 2018.06.26 at 13h 38m 16s.xml">
+      <configuration name="RegisterTestSuite.sortByAvgScoreTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LeagueTestSuite_sortByTeamScoreTest - 2018.06.25 at 21h 31m 13s.xml">
-      <configuration name="LeagueTestSuite.sortByTeamScoreTest" configurationId="JUnit" />
+    <history-entry file="RegisterTestSuite_sortByAvgScoreTest - 2018.06.26 at 13h 38m 48s.xml">
+      <configuration name="RegisterTestSuite.sortByAvgScoreTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LeagueTestSuite_sortByTeamScoreTest - 2018.06.25 at 21h 31m 55s.xml">
-      <configuration name="LeagueTestSuite.sortByTeamScoreTest" configurationId="JUnit" />
+    <history-entry file="RegisterTestSuite_sortByAvgScoreTest - 2018.06.26 at 13h 39m 01s.xml">
+      <configuration name="RegisterTestSuite.sortByAvgScoreTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LeagueTestSuite - 2018.06.25 at 21h 33m 10s.xml">
-      <configuration name="LeagueTestSuite" configurationId="JUnit" />
+    <history-entry file="RegisterTestSuite_sortByAvgScoreTest - 2018.06.26 at 13h 40m 36s.xml">
+      <configuration name="RegisterTestSuite.sortByAvgScoreTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="371182000" />
+    <option name="totallyTimeSpent" value="381440000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -865,12 +1012,12 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="5" weight="0.32942432" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3582251" />
       <window_info anchor="bottom" id="Version Control" order="11" weight="0.32943925" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.18579236" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32683983" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.18506494" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12846482" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12953092" />
       <window_info anchor="right" id="Database" order="7" weight="0.3298887" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32142857" />
       <window_info anchor="right" id="Gradle" order="6" weight="0.18390192" />
@@ -878,13 +1025,13 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="3" />
       <window_info anchor="right" id="Theme Preview" order="8" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.31385282" />
       <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.31385282" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" x="0" y="0" width="434" height="856" id="Documentation" order="9" side_tool="true" visible="true" weight="0.32995737" />
-      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Build" order="10" weight="0.32900432" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
@@ -904,8 +1051,16 @@
           <properties />
           <option name="timeStamp" value="58" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/pl/cschool/exam/RegisterTestSuite.java</url>
+          <line>40</line>
+          <properties class="pl.cschool.exam.RegisterTestSuite" method="addStudentToGroupTest">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="155" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="154" />
+      <option name="time" value="157" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="JUnit">
@@ -937,85 +1092,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/zzz/library/LibraryTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/cschool/airport/AirportRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/cschool/taskset3/smarthome/BudynekTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="102" lean-forward="true" selection-start-line="102" selection-end-line="102" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/cschool/taskset4/smarthome/BuildingTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="57" column="42" lean-forward="true" selection-start-line="57" selection-start-column="42" selection-end-line="57" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/cschool/taskset4/vehicleservice/VehicleRegisterServiceTestSuite.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="91" lean-forward="true" selection-start-line="91" selection-end-line="91" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/cschool/taskset4/vehicleservice/CarComparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/zzz/library/Book.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
-          <folding>
-            <element signature="e#328#329#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/zzz/library/BookCategory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/zzz/library/BookRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="502">
-          <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#830#831#0" expanded="true" />
-            <element signature="e#861#862#0" expanded="true" />
-            <element signature="e#915#916#0" expanded="true" />
-            <element signature="e#955#956#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/zzz/library/DbService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -1139,10 +1215,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="262">
           <caret line="39" column="18" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
-          <folding>
-            <element signature="e#659#660#0" expanded="true" />
-            <element signature="e#693#694#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1150,18 +1222,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
-          <folding>
-            <element signature="e#322#323#0" expanded="true" />
-            <element signature="e#373#374#0" expanded="true" />
-            <element signature="e#419#420#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/cschool/taskset4/vehicleservice/RegisterMenager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="148" lean-forward="true" selection-start-line="148" selection-end-line="148" />
         </state>
       </provider>
     </entry>
@@ -1169,9 +1229,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1179,14 +1236,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="265">
           <caret line="33" column="41" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/zzz/football2/MatchResultEnum.java">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/zzz/aaa/FlightDto.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1199,10 +1250,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
           <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
-          <folding>
-            <element signature="e#511#512#0" expanded="true" />
-            <element signature="e#542#543#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1217,9 +1264,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1227,9 +1271,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="502">
           <caret line="53" column="46" lean-forward="true" selection-start-line="53" selection-start-column="46" selection-end-line="53" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1244,9 +1285,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="20">
           <caret line="41" column="63" lean-forward="true" selection-start-line="41" selection-start-column="63" selection-end-line="41" selection-end-column="63" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1261,9 +1299,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
           <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
-          <folding>
-            <element signature="e#439#440#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1271,10 +1306,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="27" selection-start-line="27" selection-end-line="27" />
-          <folding>
-            <element signature="e#3574#3575#0" expanded="true" />
-            <element signature="e#3654#3655#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1282,9 +1313,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="12" column="114" selection-start-line="12" selection-start-column="114" selection-end-line="12" selection-end-column="114" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1299,9 +1327,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
-          <folding>
-            <element signature="e#312#313#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1316,9 +1341,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="20">
           <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1326,9 +1348,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="436">
           <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1350,6 +1369,122 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
           <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/cschool/taskset4/smarthomeOld/BuildingTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/cschool/exam/Teacher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/cschool/taskset4/vehicleservice/RegisterMenager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2840">
+          <caret line="148" lean-forward="true" selection-start-line="148" selection-end-line="148" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/cschool/exam/Group.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" selection-start-line="9" selection-end-line="11" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/cschool/exam/StudentComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#243#244#0" expanded="true" />
+            <element signature="e#269#270#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/cschool/exam/Subjects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="37" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/cschool/exam/ScoreDto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="26" column="33" lean-forward="true" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#228#229#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
+            <element signature="e#299#300#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/cschool/exam/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="40" column="33" selection-start-line="40" selection-start-column="33" selection-end-line="40" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+            <element signature="e#258#259#0" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+            <element signature="e#365#366#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/cschool/exam/GroupStats.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/cschool/exam/GroupRegisterManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="94" column="62" lean-forward="true" selection-start-line="94" selection-start-column="62" selection-end-line="94" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2919#2920#0" expanded="true" />
+            <element signature="e#2950#2951#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/cschool/exam/RegisterTestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="171" column="20" selection-start-line="171" selection-start-column="20" selection-end-line="171" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
